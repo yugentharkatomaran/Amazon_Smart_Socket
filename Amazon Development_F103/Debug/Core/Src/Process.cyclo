@@ -1,0 +1,6 @@
+../Core/Inc/USB_Data_Transreciver.h:29:2:USB_Data_Transreciver::USB_Data_Transreciver(AC_Socket_Control*)	1
+../Core/Inc/ACS712.h:17:7:ACS712::ACS712()	1
+../Core/Src/Process.cpp:22:6:void Process::Init()	1
+../Core/Src/Process.cpp:38:6:void Process::process()	1
+../Core/Src/Process.cpp:58:1:void __static_initialization_and_destruction_0()	1
+../Core/Src/Process.cpp:58:1:cpp)	1

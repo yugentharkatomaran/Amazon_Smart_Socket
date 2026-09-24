@@ -1,0 +1,4 @@
+../Core/Src/INA219.cpp:12:19:HAL_StatusTypeDef INA219::INA219_WriteRegister(uint8_t, uint16_t)	1
+../Core/Src/INA219.cpp:28:19:HAL_StatusTypeDef INA219::INA219_ReadRegister(uint8_t, uint16_t*)	2
+../Core/Src/INA219.cpp:50:19:HAL_StatusTypeDef INA219::INA219_Init()	3
+../Core/Src/INA219.cpp:72:19:HAL_StatusTypeDef INA219::INA219_ReadMeasurements()	10

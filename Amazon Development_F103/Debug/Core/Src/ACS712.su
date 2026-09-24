@@ -1,0 +1,2 @@
+../Core/Src/ACS712.cpp:46:6:void ACS712::adcInit()	16	static
+../Core/Src/ACS712.cpp:53:6:void ACS712::adcRead()	120	static
