@@ -1,0 +1,47 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="tGXEWRP0hE1H2gLVSDbO">
+    <mxGraphModel dx="1645" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WyjkV9DVik1yiItpSbj--1" parent="1" style="whiteSpace=wrap;html=1;" value="MCU" vertex="1">
+          <mxGeometry height="170" width="150" x="425" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="WyjkV9DVik1yiItpSbj--2" parent="1" style="whiteSpace=wrap;html=1;" value="AC to DC&lt;br&gt;Power Convertor" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WyjkV9DVik1yiItpSbj--8" edge="1" parent="1" source="WyjkV9DVik1yiItpSbj--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="350" />
+              <mxPoint x="200" y="330" />
+            </Array>
+            <mxPoint x="260" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyjkV9DVik1yiItpSbj--9" edge="1" parent="1" source="WyjkV9DVik1yiItpSbj--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="360" />
+              <mxPoint x="200" y="360" />
+              <mxPoint x="200" y="410" />
+            </Array>
+            <mxPoint x="260" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyjkV9DVik1yiItpSbj--3" parent="1" style="whiteSpace=wrap;html=1;" value="PC" vertex="1">
+          <mxGeometry height="60" width="110" x="10" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="WyjkV9DVik1yiItpSbj--4" parent="1" style="triangle;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="80" width="30" x="51" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="WyjkV9DVik1yiItpSbj--6" parent="1" style="whiteSpace=wrap;html=1;" value="USB CDC&amp;nbsp;&lt;br&gt;Virtual" vertex="1">
+          <mxGeometry height="60" width="110" x="262" y="296" as="geometry" />
+        </mxCell>
+        <mxCell id="WyjkV9DVik1yiItpSbj--7" parent="1" style="whiteSpace=wrap;html=1;" value="Ethernet&amp;nbsp;&lt;br&gt;W5500" vertex="1">
+          <mxGeometry height="60" width="110" x="262" y="377" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
